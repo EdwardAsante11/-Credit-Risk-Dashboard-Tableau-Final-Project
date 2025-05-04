@@ -1,6 +1,6 @@
 # Credit Risk Dashboard – Tableau Final Project
 
-This project is a credit risk visualization built in Tableau as part of my graduate coursework. It explores risk segmentation and loss exposure using a simplified PD (Probability of Default) model due to limited data availability.
+This project is a credit risk visualization built in Tableau as part of my graduate coursework. It explores risk segmentation and loss exposure using a simplified PD (Probability of Default) model due to limited data availability. ( you will need the Tableau app to view the file )
 
 ## 📂 File
 - `Final_Project_Edward_Asante_4.30.25.twbx`: Tableau workbook file containing all dashboards, worksheets, and data connections.
