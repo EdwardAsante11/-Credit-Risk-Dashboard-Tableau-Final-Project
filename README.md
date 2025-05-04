@@ -25,8 +25,7 @@ The aim of this project was to:
 - Tableau (Desktop)
 - Excel (for initial data prep)
 
-## 🔗 LinkedIn Showcase
-Check out the project on my [LinkedIn](https://www.linkedin.com/in/your-profile-link).
+
 
 ## 👤 Author
 **Edward Asante**  
