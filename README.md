@@ -2,8 +2,9 @@
 
 This project is a credit risk visualization built in Tableau as part of my graduate coursework. It explores risk segmentation and loss exposure using a simplified PD (Probability of Default) model due to limited data availability. ( you will need the Tableau app to view the file )
 
-## 📂 File
-- `Final_Project_Edward_Asante_4.30.25.twbx`: Tableau workbook file containing all dashboards, worksheets, and data connections.
+## Dashboard Image 
+<img width="1470" alt="Screenshot 2025-05-04 at 6 45 49 PM" src="https://github.com/user-attachments/assets/2aeb3b54-f7e5-4585-a377-89b821529cea" />
+
 
 ## 🧠 Project Objective
 The aim of this project was to:
@@ -25,7 +26,7 @@ The aim of this project was to:
 - Tableau (Desktop)
 - Excel (for initial data prep)
 
-
+Dashboard Image
 
 ## 👤 Author
 **Edward Asante**  
